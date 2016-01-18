@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[bda]]></title>
+        <description><![CDATA[bda]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 18 Jan 2016 18:12:22 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[A leading corporate advisory firm inspiring new generation ideas that create value for the global insurance industry.]]></title>
+            <description><![CDATA[<h1>A leading corporate advisory firm inspiring new generation ideas that create value for the global insurance industry.</h1>]]></description>
+            <link>undefinedd86e84bc-8d19-4fca-ba87-57701c5dde04/index.html</link>
+            <guid isPermaLink="false">d86e84bc-8d19-4fca-ba87-57701c5dde04</guid>
+            <pubDate>Mon, 18 Jan 2016 18:12:02 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
