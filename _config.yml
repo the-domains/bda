@@ -1,0 +1,28 @@
+name: bda
+favicon: null
+layout_spectrum: 0.03788975230418146
+typography_spectrum: 0.47871156712062657
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.2724720099940896
+  lightness: 0.8121935650706291
+  saturation: 0.033168713096529245
+  rhythmicContrast: 0.11069251410663128
+purpose: []
